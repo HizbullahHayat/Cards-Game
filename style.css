@@ -1,0 +1,59 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("images/pexels-nick-rtr-3187173.jpg");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+.home--screen{
+    align-items: center;
+    
+}
+.name--input{
+    background-color: rgb(255, 255, 255);
+    height: 25px;
+    border: none;
+    border-radius: 20px;
+    padding: 0 15px 0 15px;
+    text-align: center;
+}
+.age--input{
+    background-color: rgb(255, 255, 255);
+    height: 25px;
+    border: none;
+    border-radius: 20px;
+    padding: 0 15px 0 15px;
+    text-align: center;
+
+}
+.entry--btn{
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    padding: 0 15px 0 15px;
+    font-weight: bolder;
+    cursor: pointer;
+}
